@@ -13,4 +13,8 @@ Politeknik Negeri Malang 2019/2020
 </a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align="left">
+<a href="mailto: sholikinmuhammad1941720140@gmail.com"><img src="https://img.shields.io/badge/sholikinmuhammad1941720140@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
